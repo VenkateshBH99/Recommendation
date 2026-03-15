@@ -1,0 +1,35 @@
+# Data files
+*.json
+*.parquet
+*.pkl
+*.npy
+*.csv
+*.log
+*.zip
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Output directories
+eda_outputs/
+eda_outputs_new/
+eda_outputs_new1/
+recommendation_outputs/
+recommendation_outputs_cf/
+recommendation_outputs_cf1/
+recommendation_outputs_cf2/
+recommendation_outputs_new/
+recommendation_outputs_new1/
+recommendation_outputs_new2/
+images/
+
+# PDFs
+*.pdf
+
+# Keep markdown reports
+!*.md
